@@ -1,6 +1,6 @@
 # 欢迎使用 Stonefield Database Toolkit (SDT)
 
-# 翻译：xinjie    2020.01.15
+ 翻译：xinjie    2020.01.15
 
 Stonefield Database Toolkit (SDT) 是由 Doug Henning 开发的功能强大的工具，该工具由 Stonefield Software Inc 销售超过20年。2020年元月，StoneField Software 决定对其开源，免费提供给所有 Microsoft® Visual FoxPro™ 开发者使用。
 
